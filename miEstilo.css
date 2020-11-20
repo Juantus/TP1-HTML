@@ -1,0 +1,86 @@
+body{
+    background-image: url(img/y-so-serious/y-so-serious/y-so-serious.png);
+}
+
+h1 {
+    font-family: Sans-serif;
+    font-style: italic;
+    text-align: center;
+    color: white;
+    font-size: 34px;
+}
+
+.imagen{
+    margin: 0% 2.5%;
+    width: 95%;
+}
+
+#texto_presentacion{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    color: teal;
+    width: 55%;
+    margin: 70px 0 0 425px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 1.5%;
+    text-align: center;
+}
+
+
+#navegador ul{
+    list-style-type: none;
+    text-align: left;
+    background-color: white;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#navegador li{
+    display: inline;
+    text-align: left;
+    margin: 12px 10px 0 0;
+
+ }
+
+ #navegador li a {
+    padding: 4px 10px 4px 10px;
+    color: #666;
+    background-color: #eeeeee;
+    border: 1px solid #ccc;
+    text-decoration: none;
+ }
+ 
+
+ #navegador li a:hover{
+    background-color: #333333;
+    color: #ffffff;
+ }
+
+ .texto{ 
+    font: bold 16px, Serif; 
+}
+
+ .producto{
+    width: 25%;
+    margin: 2.5%;
+    background-color: white;
+    border-radius: 5px;
+    float: left;
+    padding: 1.5%;
+    text-align: center;
+ }
+
+ #tablita{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    color: teal;
+    width: 35%;
+    margin: 2.5% 30% 2.5% 30%;
+    background-color: white;
+    border-radius: 5px;
+    float: left;
+    padding: 1.5%;
+    text-align: center;
+
+ }
